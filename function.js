@@ -8,3 +8,5 @@ myfunction(3, 4);
 let purv = (a, b) => {
   return a + b;
 };
+
+console.log("test");
